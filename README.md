@@ -1,6 +1,6 @@
 # leagueoftournuments_kyra
 
-A new Flutter project.
+Un simple proyecto para Kyra y la demostracion de como se puede consumir una API con flutter.
 
 ## Getting Started
 
